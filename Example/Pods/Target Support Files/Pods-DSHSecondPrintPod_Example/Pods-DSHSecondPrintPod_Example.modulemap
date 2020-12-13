@@ -1,0 +1,6 @@
+framework module Pods_DSHSecondPrintPod_Example {
+  umbrella header "Pods-DSHSecondPrintPod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DSHSecondPrintPod (0.1.0)
+
+DEPENDENCIES:
+  - DSHSecondPrintPod (from `../`)
+
+EXTERNAL SOURCES:
+  DSHSecondPrintPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSHSecondPrintPod: fe6e07153e0ed4826ee14b05af1b80812badbad9
+
+PODFILE CHECKSUM: 56500baf150077d6bc8a7315b6e355237089be6c
+
+COCOAPODS: 1.10.0
